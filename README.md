@@ -1,4 +1,5 @@
 # Hey, I'm Cobe 👋
+### Security Automation Builder | Homelab Security Engineer
 
 I build practical tools and security scripts — learning cybersecurity hands-on through homelabs, ethical hacking labs, and real-world automation projects.
 
